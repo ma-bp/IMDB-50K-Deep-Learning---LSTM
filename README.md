@@ -1,7 +1,8 @@
+Kaggle Dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 The IMDB 50K dataset from Kaggle is a popular dataset used for sentiment analysis in natural language processing (NLP). It consists of 50,000 movie reviews from the Internet Movie Database (IMDb), labeled as either positive or negative, making it a binary classification problem. 
 This dataset is widely used for training and evaluating various machine learning and deep learning models to perform sentiment analysis on textual data.
 
-Dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Models utilised for IMDB 50k dataset (primarily focusing on LSTM):
 
