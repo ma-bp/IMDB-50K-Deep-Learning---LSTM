@@ -7,7 +7,6 @@ LSTM networks are a type of recurrent neural network (RNN) that are capable of l
 A Simple LSTM model for the IMDB dataset typically consists of an embedding layer, followed by one or more LSTM layers, and a dense output layer with a sigmoid activation function for binary classification.
 LSTMs are effective in capturing the context of words in sequences, thus handling the dependencies and relationships between words better than traditional RNNs.
 
-
 2. Simple BiLSTM (Bidirectional LSTM)
 Bidirectional LSTM networks are an extension of LSTMs that process the input data in both forward and backward directions, thus capturing information from both past and future states.
 
