@@ -1,8 +1,6 @@
 The IMDB 50K dataset from Kaggle is a popular dataset used for sentiment analysis in natural language processing (NLP). It consists of 50,000 movie reviews from the Internet Movie Database (IMDb), labeled as either positive or negative, making it a binary classification problem. 
 This dataset is widely used for training and evaluating various machine learning and deep learning models to perform sentiment analysis on textual data.
 
-This dataset if from kaggle (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
-
 1. Simple LSTM (Long Short-Term Memory)
 LSTM networks are a type of recurrent neural network (RNN) that are capable of learning long-term dependencies, making them well-suited for processing sequences of data like text.
 
@@ -20,3 +18,5 @@ The CNNBiLSTM model combines Convolutional Neural Networks (CNNs) with Bidirecti
 
 - The CNNBiLSTM model typically starts with an embedding layer, followed by one or more convolutional layers (with pooling) to extract local features from text data. These features are then fed into one or more bidirectional LSTM layers to capture long-term dependencies. Finally, a dense output layer with a sigmoid activation function is used for classification.
 This combination allows the model to first identify local patterns in the text (such as specific phrases or combinations of words) and then understand the sequence of these patterns in a broader context. This makes the CNNBiLSTM particularly powerful for sentiment analysis, as it can capture both local syntactic structures and global semantic meaning.
+
+This dataset if from kaggle (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
